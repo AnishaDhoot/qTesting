@@ -1,0 +1,47 @@
+{
+    "question": {
+      "name": "brainrot",
+      "phase": "1",
+      "difficulty": "1",
+      "authors": ["Avadhoot Ganesh Mahadik"],
+      "parts": [
+        {
+          "content": [
+            {
+              "type": "link",
+              "data": "https://drive.google.com/file/d/1CtDIuj7gHdpP6iFNT7eNQOHieP5JuJ0h/view?usp=sharing"
+            },
+            {
+                "type": "text",
+                "data": "Can you hear this image" 
+            }
+          ],
+          "answertype": "text",
+          "answer": "Wake Up! Its the first of the month",
+          "hint": {
+            "text": "Is it the first of the month?",
+            "cost": "25"
+          }
+        }, 
+        {
+          "content": [
+            {
+              "type": "link",
+              "data": "https://drive.google.com/file/d/1OZ2tMfIwOz1VT9fnXyKDH4n_MQAIpfai/view?usp=sharing"
+            },
+            {
+                "type": "text",
+                "data": "Guess the character that dances in this brainrot"  
+            }
+          ],
+          "answertype": "text",
+          "answer": "Osaka",
+          "hint": {
+            "text": "Ever watched Azumanga Daioh?",
+            "cost": "25"
+          }
+        }
+      ]
+    }
+  }
+  

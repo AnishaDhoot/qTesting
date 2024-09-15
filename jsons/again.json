@@ -1,0 +1,37 @@
+{
+    "question": {
+      "name": "again?",
+      "phase": "1",
+      "difficulty": "1",
+      "authors": ["Avadhoot Ganesh Mahadik"],
+      "parts": [
+        {
+            "content": [
+            {
+                "type": "text",
+                "data": "I happen again, just like before,"
+            },
+            {
+                "type": "text",
+                "data": "A pattern or cycle you can't ignore."
+            },
+            {
+                "type": "text",
+                "data": "From start to end, then back once more,"
+            },
+            {
+                "type": "text",
+                "data": "What am I, knocking on your door?"
+            }
+            ],
+            "answertype": "text",
+            "answer": "recursion",
+            "hint": {
+            "text": "this is a sub class of dsa problems when you practicef or interview.",
+            "cost": "25"
+            }
+        }
+      ]
+    }
+  }
+  

@@ -1,0 +1,29 @@
+{
+    "question": {
+      "name": "health",
+      "phase": "1",
+      "difficulty": "1",
+      "authors": ["Shambhavi Paygude"],
+      "parts": [
+        {
+          "content": [
+            {
+              "type": "text",
+              "data": "In a busy town, there was a place where people came in pain and left with hope. Inside, skilled hands worked day and night, healing with care and compassion. It wasn't a home, but for many, it felt like one in times of need."
+            },
+            {
+              "type": "text",
+              "data": "Where am I?"
+            }
+          ],
+          "answertype": "QR",
+          "answer": "Medical Center",
+          "hint": {
+            "text": "Absolutely important place when you have a fever.",
+            "cost": "50"
+          }
+        }
+      ]
+    }
+  }
+  
