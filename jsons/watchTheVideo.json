@@ -1,0 +1,47 @@
+{
+    "question": {
+      "name": "watchTheVideo",
+      "phase": "1",
+      "difficulty": "3",
+      "authors": ["Shambhavi Paygude"],
+      "parts": [
+        {
+          "content": [
+            {
+              "type": "text",
+              "data": "Might have something to do with the duration of the video?"
+            },
+            {
+              "type": "link",
+              "data": "https://youtu.be/YRNyamyBOIQ?si=nBTMe1cVTasIAA8W"
+            }
+          ],
+          "answertype": "text",
+          "answer": "2min13sec",
+          "hint": {
+            "text": "The duration might be the answer",
+            "cost": "50"
+          }
+        },
+        {
+            "content": [
+            {
+              "type": "text",
+              "data": "Might have something to do with the person in the video?"
+            },
+            {
+              "type": "link",
+              "data": "https://youtu.be/YRNyamyBOIQ?si=nBTMe1cVTasIAA8W"
+            }
+          ],
+          "answertype": "text",
+          "answer": "maskedwolf",
+          "hint": {
+            "text": "do not use spaces in the answer",
+            "cost": "50"
+          }
+        }
+      ]
+    }
+  }
+  
