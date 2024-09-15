@@ -1,0 +1,39 @@
+{
+    "question": {
+      "name": "lev3",
+      "phase": "2",
+      "difficulty": "3",
+      "authors": ["Saka"],
+      "parts": [
+        {
+          "content": [
+            {
+              "type": "text",
+              "data": "capital of france?"
+            }
+          ],
+          "answertype": "text",
+          "answer": "Paris",
+          "hint": {
+            "text": "Seine",
+            "cost": "25"
+          }
+        }, 
+        {
+          "content": [
+            {
+              "type": "text",
+              "data": "capital of India?"
+            }
+          ],
+          "answertype": "text",
+          "answer": "Delhi",
+          "hint": {
+            "text": "Red Fort",
+            "cost": "25"
+          }
+        }
+      ]
+    }
+  }
+  
