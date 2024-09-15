@@ -1,0 +1,63 @@
+{
+    "question": {
+        "name": "blahblahblah",
+        "phase": "1",
+        "difficulty": "3",
+        "authors": ["Anisha Dhoot"],
+        "parts": [
+            {
+                "content": [
+                    {
+                        "type": "text",
+                        "data": "Capital of Bangladesh"
+                    }
+                ],
+                "answertype": "text",
+                "answer": "Dhaka",
+                "hint": {
+                    "text": "google karlo",
+                    "cost": "45"
+                }
+            },
+            {
+                "content": [
+                    {
+                        "type": "text",
+                        "data": "In a city where shadows blend and grow,"
+                    },
+                    {
+                        "type": "text",
+                        "data": " Two sentinels of steel did boldly show."
+                    },
+                    {
+                        "type": "text",
+                        "data": "Their mirrored faces kissed the sky, "
+                    },
+                    {
+                        "type": "text",
+                        "data": "A landmark where dreams would often fly."
+                    },
+                    {
+                        "type": "text",
+                        "data": " Their fall was swift, yet their tale remains,"
+                    },
+                    {
+                        "type": "text",
+                        "data": " A legacy written in architectural strains."
+                    },
+                    {
+                        "type": "text",
+                        "data": "What are they?"
+                    }
+                    
+                ],
+                "answertype": "text",
+                "answer": "TWIN TOWERS",
+                "hint": {
+                    "text": "New York",
+                    "cost": "45"
+                }
+            }
+        ]
+    }
+}
