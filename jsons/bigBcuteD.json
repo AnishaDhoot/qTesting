@@ -1,0 +1,25 @@
+{
+    "question": {
+      "name": "bigBcuteD",
+      "phase": "1",
+      "difficulty": "3",
+      "authors": ["Adarsh"],
+      "parts": [
+        {
+          "content": [
+            {
+              "type": "text",
+              "data": "Just figure it out and go there. You'll find your next clue. Simple ain't it? \nhttp://with.acmvit.in/phase3-2-1V8ld2OqS5dA2Y5Ig7ApB5uh"
+            }
+          ],
+          "answertype": "QR",
+          "answer": "jNA68sWH9e7tU2M39a8eWCtb",
+          "hint": {
+            "text": "Watch more Sholay ma",
+            "cost": "75"
+          }
+        }
+      ]
+    }
+  }
+  

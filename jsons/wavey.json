@@ -1,0 +1,29 @@
+{
+    "question": {
+      "name": "wavey",
+      "phase": "1",
+      "difficulty": "1",
+      "authors": ["Shambhavi Paygude"],
+      "parts": [
+        {
+          "content": [
+            {
+              "type": "text",
+              "data": "Within this cryptic audio, a hidden trail awaits your keen ears. Listen carefully, decode the concealed message, and unveil the path to your next destination."
+            },
+            {
+              "type": "file",
+              "data": "https://assets.cryptichunt.in/assets/final.wav"
+            }
+          ],
+          "answertype": "text",
+          "answer": "BALAJI",
+          "hint": {
+            "text": "Audio file can be viewed in multiple ways.",
+            "cost": "50"
+          }
+        }
+      ]
+    }
+  }
+  

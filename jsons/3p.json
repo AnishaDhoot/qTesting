@@ -1,0 +1,88 @@
+{
+    "question": {
+        "name": "Paris",
+        "phase": "1",
+        "difficulty": "1",
+        "authors": ["Kim Jong Un"],
+        "parts": [
+            {
+                "content": [
+                    {
+                        "type": "text",
+                        "data": "What is the capital of France?"
+                    },
+                    {
+                        "type": "image",
+                        "data": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Paris_-_Eiffelturm_und_Marsfeld2.jpg/800px-Paris_-_Eiffelturm_und_Marsfeld2.jpg"
+                    },
+                    {
+                        "type": "link",
+                        "data": "https://en.wikipedia.org/wiki/La_Marseillaise"
+                    },
+                    {
+                        "type": "file",
+                        "data": "https://docs.google.com/document/d/1XSfR_E_B7QZyHY9h1vET4q-3kL-4fMJOy1HVox73zA4/edit?usp=sharing"
+                    }
+                ],
+                "answertype": "text",
+                "answer": "part1ans",
+                "hint": {
+                    "text": "part1hint",
+                    "cost": "30"
+                }
+            },
+            {
+                "content": [
+                    {
+                        "type": "text",
+                        "data": "What is the capital of France?"
+                    },
+                    {
+                        "type": "image",
+                        "data": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Paris_-_Eiffelturm_und_Marsfeld2.jpg/800px-Paris_-_Eiffelturm_und_Marsfeld2.jpg"
+                    },
+                    {
+                        "type": "link",
+                        "data": "https://upload.wikimedia.org/wikipedia/commons/4/4d/La_Marseillaise.ogg"
+                    },
+                    {
+                        "type": "file",
+                        "data": "https://upload.wikimedia.org/wikipedia/commons/4/4d/La_Marseillaise.ogg"
+                    }
+                ],
+                "answertype": "text",
+                "answer": "part2ans",
+                "hint": {
+                    "text": "part2hint",
+                    "cost": "30"
+                }
+            }
+            ,{
+                "content": [
+                    {
+                        "type": "text",
+                        "data": "What is the capital of France?"
+                    },
+                    {
+                        "type": "image",
+                        "data": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Paris_-_Eiffelturm_und_Marsfeld2.jpg/800px-Paris_-_Eiffelturm_und_Marsfeld2.jpg"
+                    },
+                    {
+                        "type": "link",
+                        "data": "https://upload.wikimedia.org/wikipedia/commons/4/4d/La_Marseillaise.ogg"
+                    },
+                    {
+                        "type": "file",
+                        "data": "https://upload.wikimedia.org/wikipedia/commons/4/4d/La_Marseillaise.ogg"
+                    }
+                ],
+                "answertype": "text",
+                "answer": "part3ans",
+                "hint": {
+                    "text": "part3hint",
+                    "cost": "30"
+                }
+            }
+        ]
+    }
+}

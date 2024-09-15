@@ -1,0 +1,28 @@
+{
+  "question": {
+    "name": "proportionalPerplexity",
+    "phase": "1",
+    "difficulty": "1",
+    "authors": ["Yasha Pacholee"],
+    "parts": [
+      {
+        "content": [
+          {
+            "type": "text",
+            "data": "Discover the mysterious proportion that nature's finest creations share—a perfect balance between two elements. Unveil this hidden secret to unlock the path that leads to unparalleled beauty and harmony."
+          },
+          {
+            "type": "image",
+            "data": "https://i.imgur.com/x4sAhz4.jpg"
+          }
+        ],
+        "answertype": "text",
+        "answer": "1.618",
+        "hint": {
+          "text": "Use online steganography tools to find the encrypted image using the password. Take up to 3 decimal places.",
+          "cost": "50"
+        }
+      }
+    ]
+  }
+}

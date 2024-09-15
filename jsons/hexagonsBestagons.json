@@ -1,0 +1,25 @@
+{
+    "question": {
+      "name": "hexagonsBestagons",
+      "phase": "1",
+      "difficulty": "1",
+      "authors": ["Yasha Pacholee"],
+      "parts": [
+        {
+          "content": [
+            {
+              "type": "text",
+              "data": "In angles six, I stand so tall, \nA shape unique, in architecture's thrall.\nWith sides and corners, symmetrical and bright,\nWhat am I, a masterpiece of design and light?"
+            }
+          ],
+          "answertype": "QR",
+          "answer": "O2xNn7P1O5fvm27mLuZnA5Xw",
+          "hint": {
+            "text": "sample hint",
+            "cost": "50"
+          }
+        }
+      ]
+    }
+  }
+  
