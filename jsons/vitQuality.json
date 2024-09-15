@@ -1,0 +1,29 @@
+{
+    "question": {
+      "name": "vit-quality",
+      "phase": "1",
+      "difficulty": "1",
+      "authors": ["Avadhoot Ganesh Mahadik"],
+      "parts": [
+        {
+            "content": [
+            {
+                "type": "link",
+                "data": "https://drive.google.com/file/d/1QZxtiJiTlCAhH6vb4rFxXyIQh00cAcJ5/view?usp=sharing"
+            },
+            {
+                "type": "text",
+                "data": "I'm a tune you love to hum, but who brought me to life remains a mystery. Who created me?"
+            }
+            ],
+            "answertype": "text",
+            "answer": "S.Muthuraja and J.Christopher",
+            "hint": {
+            "text": "audio may not always be given forward",
+            "cost": "25"
+            }
+        }
+      ]
+    }
+  }
+  

@@ -1,0 +1,29 @@
+{
+    "question": {
+      "name": "geoGuess",
+      "phase": "1",
+      "difficulty": "1",
+      "authors": ["Shambhavi Paygude"],
+      "parts": [
+        {
+          "content": [
+            {
+              "type": "text",
+              "data": "where is this place"
+            },
+            {
+              "type": "image",
+              "data": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fvit.ac.in%2Fabout-vit&psig=AOvVaw1OdVfO86q0Ua1SChC_-eLX&ust=1726484831581000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNi_6qrnxIgDFQAAAAAdAAAAABAE"
+            }
+          ],
+          "answertype": "text",
+          "answer": "VIT Vellore",
+          "hint": {
+            "text": "This is the place we live in right now.",
+            "cost": "50"
+          }
+        }
+      ]
+    }
+  }
+  
