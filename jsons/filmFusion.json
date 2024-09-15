@@ -1,0 +1,29 @@
+{
+    "question": {
+      "name": "FilmFusion",
+      "phase": "1",
+      "difficulty": "1",
+      "authors": ["Shambhavi Paygude"],
+      "parts": [
+        {
+          "content": [
+            {
+              "type": "text",
+              "data": "Initiate your search with a reversed portrayal of a film star. Decipher the concealed puzzle pieces within. Unravel the secrets to reveal an event's core and unite fragments tied to significant dates."
+            },
+            {
+              "type": "image",
+              "data": "https://assets.cryptichunt.in/assets/ad.jpg"
+            }
+          ],
+          "answertype": "QR",
+          "answer": "MAHATMA GANDHI BUILDING",
+          "hint": {
+            "text": "Check the metadata of the image for hidden information.",
+            "cost": "50"
+          }
+        }
+      ]
+    }
+  }
+  

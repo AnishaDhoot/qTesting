@@ -1,0 +1,49 @@
+{
+    "question": {
+      "name": "funFact",
+      "phase": "2",
+      "difficulty": "1",
+      "authors": ["Anisha Dhoot"],
+      "parts": [
+        {
+          "content": [
+            {
+              "type": "text",
+              "data": "In the depths where shadows play"
+            },
+            {
+              "type": "text",
+              "data": "I dance in circles, night and day."
+            },
+            {
+              "type": "text",
+              "data": "When time should age me, I refuse to sway,"
+            },
+            {
+              "type": "text",
+              "data": "With every cycle, I find a way."
+            },
+            {
+              "type": "text",
+              "data": "In endless loops, I hold decay at bay,"
+            },
+            {
+              "type": "text",
+              "data": "And start again, as if to say, I'll never fade away."
+            },
+            {
+              "type": "text",
+              "data": "What am I?"
+            }
+          ],
+          "answertype": "text",
+          "answer": "TURRITOPSIS DOHRNII",
+          "hint": {
+            "text": "Look under the ocean for a creature with no neurons",
+            "cost": "50"
+          }
+        }
+      ]
+    }
+  }
+  
